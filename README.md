@@ -1,4 +1,4 @@
-# Project 3: AI Movie Recommendation System (Enhanced)
+# Task 3: AI Movie Recommendation System (Enhanced)
 
 A sophisticated movie recommendation system that understands user preferences through direct input and historical ratings, matches patterns using cosine similarity, and maps interests to provide highly relevant suggestions.
 
@@ -28,7 +28,7 @@ A sophisticated movie recommendation system that understands user preferences th
 ## Setup & Usage
 1.  Navigate to the project directory:
     ```bash
-    cd DecodeLabs-Internship_project-3
+    cd Task-3-MatthewZakari
     ```
 2.  Install dependencies:
     ```bash
